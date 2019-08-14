@@ -38,4 +38,9 @@ return [
     'success_message'       =>  ':attribute Has been saved successfully',
     'delete_message'        =>  ':attribute Has been deleted successfully',
     'error_message'         =>  ':attribute Error',
+    'created_by'            =>  'Created By',
+    'created_at'            =>  'Created At',
+    'updated_at'            =>  'Updated At',
+    'active'                =>  'Active',
+    'inactive'              =>  'Inactive'
 ];
